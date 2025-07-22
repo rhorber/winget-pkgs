@@ -1,8 +1,8 @@
-# Created with YamlCreate.ps1 Dumplings Mod
+# Created with komac v2.12.1
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: Dangbei.XiaowangScreenshot
-PackageVersion: 1.2.2
-DefaultLocale: zh-CN
+PackageIdentifier: Wingware.Wing.Personal
+PackageVersion: 10.0.10.0
+DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
